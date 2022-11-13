@@ -20,7 +20,7 @@ git push -u origin main
 
 =======================> PUSH <==========================
 git add .
-git commit -m " menambahkan front end "
+git commit -m " menambahkan Category "
 git push
 
 
