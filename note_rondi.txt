@@ -20,7 +20,7 @@ git push -u origin main
 
 =======================> PUSH <==========================
 git add .
-git commit -m " "
+git commit -m " menambahkan front end "
 git push
 
 
@@ -29,4 +29,7 @@ git push
      php artisan make:model Post -a
 2.membuat file migration
 3.membuat file factory
+4.membuat Category
+     php artisan make:model Category -a
+
 
